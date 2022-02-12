@@ -29,6 +29,6 @@ limitations under the License.
 Jasskamal
     
 ## Github and Link to Deployed Application:
-Application: ./assets/readmeGenerator.mov
+Application: https://github.com/Jasskamal/README-Generator/blob/main/Develop/assets/readmeGenerator.mov
 <br>
 Github: https://github.com/Jasskamal/README-Generator.git
